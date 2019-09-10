@@ -4,6 +4,8 @@
 
 Define a master password which you can use to login in the shop frontend as an user. Helpfull if you like to see the same result as the customer itself.
 
+This extension was created for Oxid 6.x.
+
 ## Install
 
 1. Add following to composer.json on the shop root
